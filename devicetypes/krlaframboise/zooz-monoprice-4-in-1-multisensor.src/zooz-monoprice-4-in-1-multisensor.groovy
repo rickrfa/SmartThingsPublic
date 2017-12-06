@@ -1,7 +1,4 @@
 /**
-
-github change test
-
  *  Zooz/Monoprice 4-in-1 Multisensor v1.4.2
  *		(Models: Zooz ZSE40, Monoprice P/N 15902)
  *
